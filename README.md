@@ -1,2 +1,2 @@
-# DevOps_projects
-some projects to learn about the "dev-ops world" in cloud and networking.
+## DevOps Projects:
+A place to learn about DevOps by doing some projects from the "dev-ops world" of cloud and networking.
